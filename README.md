@@ -1,5 +1,8 @@
 # Multivariate Analysis of Rental Dataset: FA, PCA, and CA
 
+# Author: Moka Kaleji                                                              
+# Affiliation: Statistics for high-dimensional dataset, University of Bologna 
+
 This repository contains a complete and commented R implementation of three key multivariate analysis methods — **Factor Analysis (FA)**, **Principal Component Analysis (PCA)**, and **Cluster Analysis (CA)** — applied to a rental dataset. The project is designed for academic and practical use, providing detailed statistical insights through dimensionality reduction, latent structure extraction, and unsupervised classification.
 
 ---
